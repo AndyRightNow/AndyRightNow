@@ -2,10 +2,10 @@
 
 ### 👋 Hi, I'm Andy Zhou
 
-With over 7 years of experience as a Software Engineer, I self-taught my way through the misty jungle of computer science and software engineering and I am still actively learning. Currently looking for possible opportunities of contributing to open source projects to deepen my connections with the community (also trying to pay back all these years of benefiting from the community, no doubt).
+With over 7 years of experience as a Software Engineer, I self-taught my way through the misty jungle of computer science and software engineering and I am still actively learning. 
 
 - Languages: `TypeScript`, `Python` and `C#`.
-<!-- - Tech Stacks: `React`, `Vue`, `Next.js` -->
+- Tech Stacks: `React`, `Vue`, `Next.js`
 
 ------
 <div align="center">
