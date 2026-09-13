@@ -1,16 +1,22 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+# Hi, I'm Andy Zhou
 
-### 👋 Hi, I'm Andy Zhou
+I'm a software engineer based in Tokyo, with 9+ years of professional experience.
+I taught myself computer science while studying marketing and started my career in web development.
 
-With over 7 years of experience as a Software Engineer, I self-taught my way through the misty jungle of computer science and software engineering and I am still actively learning. 
+My work spans product frontends, backend services, and developer tooling.
+I've owned product frontends and led shared UI library development.
+More recently, I've been building AI assistants and SDKs for agent applications.
 
-- Languages: `TypeScript`, `Python` and `C#`.
-- Tech Stacks: `React`, `Vue`, `Next.js`
+I work mainly with **TypeScript, Python, React, Vue, and Node.js**.
+I also build automation tools that cut repetitive development work.
 
-------
-<div align="center">
-  <a href="https://github.com/AndyRightNow">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndyRightNow&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="AndyRightNow"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndyRightNow&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="AndyRightNow"/>
-  </a>
-</div>
+Outside work, I build tools for writing and audiobook production.
+I speak Chinese, English, and Japanese (JLPT N1).
+
+## Public projects
+
+- [telegram-markdown-v2](https://github.com/AndyRightNow/telegram-markdown-v2) converts Markdown into Telegram's MarkdownV2 format.
+- [pocket-tts-mlx-serve](https://github.com/AndyRightNow/pocket-tts-mlx-serve) provides a FastAPI server for pocket-tts-mlx on Apple Silicon.
+- [explain-for-audio](https://github.com/AndyRightNow/explain-for-audio) is an agent skill for rewriting technical content for listening.
+
+[LinkedIn](https://www.linkedin.com/in/andyrightnow/) · [Website](https://andyrightnow.github.io/)
