@@ -10,7 +10,4 @@ More recently, I've been building AI assistants and SDKs for agent applications.
 I work mainly with **TypeScript, Python, React, Vue, and Node.js**.
 I also build automation tools that cut repetitive development work.
 
-Outside work, I build tools for writing and audiobook production.
 I speak Chinese, English, and Japanese (JLPT N1).
-
-[LinkedIn](https://www.linkedin.com/in/andyrightnow/) · [Website](https://andyrightnow.github.io/)
