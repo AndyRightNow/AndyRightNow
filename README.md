@@ -13,10 +13,4 @@ I also build automation tools that cut repetitive development work.
 Outside work, I build tools for writing and audiobook production.
 I speak Chinese, English, and Japanese (JLPT N1).
 
-## Public projects
-
-- [telegram-markdown-v2](https://github.com/AndyRightNow/telegram-markdown-v2) converts Markdown into Telegram's MarkdownV2 format.
-- [pocket-tts-mlx-serve](https://github.com/AndyRightNow/pocket-tts-mlx-serve) provides a FastAPI server for pocket-tts-mlx on Apple Silicon.
-- [explain-for-audio](https://github.com/AndyRightNow/explain-for-audio) is an agent skill for rewriting technical content for listening.
-
 [LinkedIn](https://www.linkedin.com/in/andyrightnow/) · [Website](https://andyrightnow.github.io/)
